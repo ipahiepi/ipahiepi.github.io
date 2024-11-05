@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipahiepi.github.io/Blc/sitemap_index.txt
+Sitemap: https://ipahiepi.github.io/XTg/sitemap_index.txt
+Sitemap: https://ipahiepi.github.io/XbO/sitemap_index.txt
+Sitemap: https://ipahiepi.github.io/ahM/sitemap_index.txt
